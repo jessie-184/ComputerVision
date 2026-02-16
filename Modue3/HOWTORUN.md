@@ -1,4 +1,4 @@
-# Instruction to Run Module 2 Assginment Script
+# Instruction to Run Module 3 Assginment Script
 
 Step 1: Upload the folder Module3 on your local Jupyter Lab
 
