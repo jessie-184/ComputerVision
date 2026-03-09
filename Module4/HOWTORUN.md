@@ -1,4 +1,4 @@
-# Instruction to Run Module 3 Assginment Script
+# Instruction to Run Module 4 Assginment Script
 
 - Upload the notebook on google colab and choose A100 GPU runtime
 - Make sure you have the SAM2 model downloaded before running the code by running the first cell in 'module4.ipynb'
